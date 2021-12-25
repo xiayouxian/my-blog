@@ -1,5 +1,6 @@
 module.exports = {
   "title": "xiatian",
+  "base":"my-blog",
   "description": "",
   "dest": "public",
   "head": [
